@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Gemesh 👋
 
-<!--
-**gemeshpatle59-ggp/gemeshpatle59-ggp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Learner | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I am learning Python and building practical projects to improve my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Goals
+
+- Complete 100 Python programs
+- Build 30 real-world Python projects
+- Learn Data Structures and Algorithms
+- Build a strong GitHub portfolio
+
+## 🛠️ Python Skills
+
+- Python Fundamentals
+- Conditional Statements
+- Loops
+- Functions and Recursion
+- Strings
+- Lists, Tuples, Sets, and Dictionaries
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- File Handling
+- JSON
+- Problem Solving
+
+
+⭐ I am continuously learning, building projects, and improving my programming skills.
