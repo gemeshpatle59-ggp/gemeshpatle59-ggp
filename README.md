@@ -1,6 +1,6 @@
 # Hi, I'm Gemesh 👋
 
-🐍 Python Learner | 💻 Aspiring Software Developer
+🐍 Python Learner |
 
 I am learning Python and building practical projects to improve my programming and problem-solving skills.
 
