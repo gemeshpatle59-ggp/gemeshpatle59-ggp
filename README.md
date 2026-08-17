@@ -112,7 +112,6 @@ My goal is to become a **strong Software Developer and AI/ML Engineer** by build
 
 * 💻 GitHub: [Gemesh](https://github.com/)
 * 📧 Email: gemeshpatle59@gmail.com
-* 💼 LinkedIn: Add your LinkedIn here
 
 ---
 
