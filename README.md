@@ -1,29 +1,121 @@
 # Hi, I'm Gemesh 👋
 
-🐍 Python Learner |
+### Aspiring Software Developer | Python & DSA | Future AI/ML Engineer
 
-I am learning Python and building practical projects to improve my programming and problem-solving skills.
+I'm a first-year Computer Science student focused on building a strong foundation in **Python, problem-solving, Data Structures & Algorithms, and real-world projects**.
+
+I believe in learning by building, practicing consistently, and improving one commit at a time. 🚀
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming
+
+* Python
+
+### Core Concepts
+
+* Variables & Data Types
+* Conditional Statements
+* Loops
+* Functions
+* Recursion
+* Strings
+* Lists, Tuples & Sets
+* Dictionaries
+* OOP
+* Exception Handling
+* File Handling
+* JSON
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
 
 ## 🚀 Current Goals
 
-- Complete 100 Python programs
-- Build 30 real-world Python projects
-- Learn Data Structures and Algorithms
-- Build a strong GitHub portfolio
+* [ ] Complete **100 Python Programs**
+* [ ] Build **30 Real-World Python Projects**
+* [ ] Learn **Data Structures & Algorithms**
+* [ ] Practice **problem-solving regularly**
+* [ ] Build a strong **GitHub portfolio**
+* [ ] Prepare for my **first internship**
 
-## 🛠️ Python Skills
+---
 
-- Python Fundamentals
-- Conditional Statements
-- Loops
-- Functions and Recursion
-- Strings
-- Lists, Tuples, Sets, and Dictionaries
-- Object-Oriented Programming (OOP)
-- Exception Handling
-- File Handling
-- JSON
-- Problem Solving
+## 📌 Featured Projects
 
+### 💰 Personal Expense Tracker
 
-⭐ I am continuously learning, building projects, and improving my programming skills.
+A Python-based expense tracking application for managing personal expenses using file handling and JSON.
+
+**Technologies:** Python, JSON, File Handling
+
+---
+
+### 🔐 Password Manager
+
+A Python project for storing, viewing, searching, and managing passwords using dictionaries and JSON.
+
+**Technologies:** Python, JSON, File Handling
+
+---
+
+### 🐍 Python Real-World Projects
+
+A collection of practical Python projects designed to improve programming skills and solve real-world problems.
+
+**Goal:** 30 Projects
+
+---
+
+### 🧠 Python Problem Solving
+
+A collection of Python practice programs covering fundamentals, logic building, and problem-solving.
+
+**Goal:** 100 Python Programs
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Problem Solving
+* Python
+* Git & GitHub
+* Building Real-World Projects
+
+---
+
+## 📊 My GitHub Journey
+
+I'm consistently working on my programming skills through:
+
+**Practice → Projects → DSA → Problem Solving → Internship Preparation**
+
+Every project and every commit is a step toward becoming a better developer. 💻
+
+---
+
+## 🎯 Long-Term Goal
+
+My goal is to become a **strong Software Developer and AI/ML Engineer** by building solid programming fundamentals, mastering DSA, and working on meaningful real-world projects.
+
+---
+
+## 🔗 Connect With Me
+
+* 💻 GitHub: [Gemesh](https://github.com/)
+* 📧 Email: gemeshpatle59@gmail.com
+* 💼 LinkedIn: Add your LinkedIn here
+
+---
+
+### ⭐ Keep Learning. Keep Building. Keep Improving.
+
+**One commit at a time. 🚀**
