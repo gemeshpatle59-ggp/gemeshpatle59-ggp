@@ -1,120 +1,18 @@
-# Hi, I'm Gemesh 👋
+# 💫 About Me:
+🔭 I'm currently working on: Python projects & DSA<br>🕺 I'm looking to collaborate on: Python/Open-source projects<br>🤝 I'm looking for help with: DSA & AI/ML<br>🌱 I'm currently learning: Python, DSA & AI/ML<br>💬 Ask me about: Python & my projects<br>⚡ Fun fact: I love turning ideas into working projects 🚀
 
-### Aspiring Software Developer | Python & DSA | Future AI/ML Engineer
 
-I'm a first-year Computer Science student focused on building a strong foundation in **Python, problem-solving, Data Structures & Algorithms, and real-world projects**.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gemesh.unfiltered) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Gemesh patle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gemeshpatle59@gmail.com) 
 
-I believe in learning by building, practicing consistently, and improving one commit at a time. 🚀
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Gemeshpatle59-ggp&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Gemeshpatle59-ggp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gemeshpatle59-ggp&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gemeshpatle59-ggp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛠️ Skills & Technologies
-
-### Programming
-
-* Python
-
-### Core Concepts
-
-* Variables & Data Types
-* Conditional Statements
-* Loops
-* Functions
-* Recursion
-* Strings
-* Lists, Tuples & Sets
-* Dictionaries
-* OOP
-* Exception Handling
-* File Handling
-* JSON
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-
----
-
-## 🚀 Current Goals
-
-* [ ] Complete **100 Python Programs**
-* [ ] Build **30 Real-World Python Projects**
-* [ ] Learn **Data Structures & Algorithms**
-* [ ] Practice **problem-solving regularly**
-* [ ] Build a strong **GitHub portfolio**
-* [ ] Prepare for my **first internship**
-
----
-
-## 📌 Featured Projects
-
-### 💰 Personal Expense Tracker
-
-A Python-based expense tracking application for managing personal expenses using file handling and JSON.
-
-**Technologies:** Python, JSON, File Handling
-
----
-
-### 🔐 Password Manager
-
-A Python project for storing, viewing, searching, and managing passwords using dictionaries and JSON.
-
-**Technologies:** Python, JSON, File Handling
-
----
-
-### 🐍 Python Real-World Projects
-
-A collection of practical Python projects designed to improve programming skills and solve real-world problems.
-
-**Goal:** 30 Projects
-
----
-
-### 🧠 Python Problem Solving
-
-A collection of Python practice programs covering fundamentals, logic building, and problem-solving.
-
-**Goal:** 100 Python Programs
-
----
-
-## 📚 Currently Learning
-
-* Data Structures & Algorithms
-* Problem Solving
-* Python
-* Git & GitHub
-* Building Real-World Projects
-
----
-
-## 📊 My GitHub Journey
-
-I'm consistently working on my programming skills through:
-
-**Practice → Projects → DSA → Problem Solving → Internship Preparation**
-
-Every project and every commit is a step toward becoming a better developer. 💻
-
----
-
-## 🎯 Long-Term Goal
-
-My goal is to become a **strong Software Developer and AI/ML Engineer** by building solid programming fundamentals, mastering DSA, and working on meaningful real-world projects.
-
----
-
-## 🔗 Connect With Me
-
-* 💻 GitHub: [Gemesh](https://github.com/)
-* 📧 Email: gemeshpatle59@gmail.com
-
----
-
-### ⭐ Keep Learning. Keep Building. Keep Improving.
-
-**One commit at a time. 🚀**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
