@@ -2,6 +2,7 @@
 🔭 I'm currently working on: Python projects & DSA<br>🕺 I'm looking to collaborate on: Python/Open-source projects<br>🤝 I'm looking for help with: DSA<br>🌱 I'm currently learning: Python, DSA <br>💬 Ask me about: Python & my projects<br>⚡ Fun fact: I love turning ideas into working projects 🚀
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gemesh.unfiltered) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gemeshpatle59@gmail.com) 
